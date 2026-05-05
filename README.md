@@ -1,5 +1,5 @@
 # AWS-Day1-30
-AWS repo to learn AWS in 30 Days. This repo includes projects, presentations, interview questions and real time examples. Each day's class will provide real-time knowledge on AWS services, allowing you to apply what you've learned and gain practical skills in working with AWS in a DevOps context.
+AWS repo to learn AWS Services in 30 Days. This repo includes projects, presentations, interview questions and real time examples. Each day's class will provide real-time knowledge on AWS services, allowing you to apply what you've learned and gain practical skills in working with AWS in a DevOps context.
 
 Day 1: Introduction to AWS
 You will learn what is private and public cloud. Why companies are moving to public cloud, what are the advantages of moving to cloud.
